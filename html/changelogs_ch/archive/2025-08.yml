@@ -240,3 +240,9 @@
   - code_imp: added missing SIGNAL_HANDLER macros to other elements
   - code_imp: split say() into a second nonblocking half, direct_say()
   - code_imp: telecomms uses timers instead of sleep for transmission delay
+2025-08-11:
+  CHOMPStation2StaffMirrorBot:
+  - bugfix: tail layering pref breaking the entire character
+  - bugfix: several issues with accidental pref saves
+  FluffMedic:
+  - maptweak: Behind the scene map things
